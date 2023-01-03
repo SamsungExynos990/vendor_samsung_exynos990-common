@@ -216,7 +216,7 @@ PRODUCT_PACKAGES += \
     libhwjsqz \
     libion_exynos \
     libmdf \
-    libmpbase \
+    libmpbase_exynos990 \
     libqfp_sensortest \
     libsec_semRil \
     libsecaudiocoreutils \
